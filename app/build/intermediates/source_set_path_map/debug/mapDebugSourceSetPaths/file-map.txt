@@ -1,0 +1,7 @@
+com.example.nphcallmate.app-pngs-0 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/build/generated/res/pngs/debug
+com.example.nphcallmate.app-resValues-1 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/build/generated/res/resValues/debug
+com.example.nphcallmate.app-packageDebugResources-2 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.nphcallmate.app-packageDebugResources-3 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.nphcallmate.app-debug-4 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.nphcallmate.app-debug-5 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/src/debug/res
+com.example.nphcallmate.app-main-6 /data/data/com.termux/files/home/AndroidProjects/NPHCallMate/app/src/main/res
